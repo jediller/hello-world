@@ -1,5 +1,6 @@
 # hello-world
 sample taken from https://guides.github.com/activities/hello-world/
+Trick is to make sure you've got your key synchronized with you GITHub ID
  1998  ssh-add ~/.ssh/id_rsa
  1999  ssh-keygen -t rsa -b 4096 -C jediller@outlook.com
  2000  ls -al ~/.ssh
